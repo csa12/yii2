@@ -1,6 +1,6 @@
 <?php
 
-namespace csa\db;
+namespace csa12\db;
 
 use DateTime;
 use DateTimeZone;
