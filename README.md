@@ -1,8 +1,8 @@
-Yii version 2 additions by CSA
-==============================
+Yii 2.0 Database additions by CSA
+=================================
 
-These additions for Yii 2 enhance or add certain features for development purposes 
-by CSA and can perhaps be of use to others.
+These Database additions for Yii 2.0 enhance or add certain features  
+for development purposes by CSA and can perhaps be of use to others.
 
 This repository is available via <https://github.com/csa12/yii2-add-database>.
 For license information check the [LICENSE](LICENSE.md)-file.
