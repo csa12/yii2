@@ -1,0 +1,23 @@
+{
+    "name": "csa12/yii2-add-database",
+    "type": "library",
+    "description": "Yii version 2 database enhancements and additions",
+    "keywords": ["yii2","database","db"],
+    "homepage": "https://github.com/csa12/yii2-add-database",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Marc Huizinga",
+            "email": "1333vr12@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+		"psr-4": {
+			"csa12\\yii2-add-database\\": ""
+		}
+    }
+}
