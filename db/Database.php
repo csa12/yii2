@@ -6,7 +6,7 @@
  * @version 0.0.1
  */
 
-namespace csa12\general;
+namespace csa12\database;
 
 use Yii;
 //use yii\web\Controller;
