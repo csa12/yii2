@@ -1,5 +1,5 @@
 {
-    "name": "csa12/yii2-add-database",
+    "name": "csa12/yii2-db",
     "type": "library",
     "description": "Yii version 2 database enhancements and additions",
     "keywords": ["yii2","database","db"],
