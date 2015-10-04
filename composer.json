@@ -1,7 +1,7 @@
 {
     "name": "csa12/yii2-db",
     "type": "library",
-    "description": "Yii version 2 database enhancements and additions",
+    "description": "Yii 2.0 db enhancements and additions",
     "keywords": ["yii2","database","db"],
     "homepage": "https://github.com/csa12/yii2-add-database",
     "license": "BSD-3-Clause",
