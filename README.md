@@ -1,10 +1,10 @@
-Yii 2.0 db additions by CSA
+Yii 2.0 enhancements by CSA
 =================================
 
-These db additions for Yii 2.0 enhance or add certain features  
+These enhancements for Yii 2.0 enhance certain features  
 for development purposes by CSA and can perhaps be of use to others.
 
-This repository is available via <https://github.com/csa12/yii2-db>.
+This repository is available via <https://github.com/csa12/yii2>.
 For license information check the [LICENSE](LICENSE.md)-file.
 
 Installation
@@ -15,13 +15,13 @@ The preferred way to install is through [composer](http://getcomposer.org/downlo
 Either run
 
 ```
-composer require csa12/yii2-db
+composer require csa12/yii2
 ```
 
 or add
 
 ```json
-"csa12/yii2-db": "dev-master",
+"csa12/yii2": "dev-master",
 ```
 
 to the require section of your composer.json.
