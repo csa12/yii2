@@ -1,6 +1,11 @@
 <?php
+/**
+ * @copyright Copyright &copy; Marc Huizinga, CSA, 2015
+ * @package yii2
+ * @version 0.0.1
+ */
 
-namespace csa12\db;
+namespace csa\db;
 
 use DateTime;
 use DateTimeZone;

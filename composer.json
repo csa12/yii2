@@ -1,9 +1,9 @@
 {
-    "name": "csa12/yii2-db",
+    "name": "csa12/yii2",
     "type": "library",
-    "description": "Yii 2.0 db enhancements and additions",
-    "keywords": ["yii2","database","db"],
-    "homepage": "https://github.com/csa12/yii2-add-database",
+    "description": "Yii2 enhancements and additions",
+    "keywords": ["yii2","db","grid","i18n"],
+    "homepage": "https://github.com/csa12/yii2",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -17,7 +17,7 @@
     },
     "autoload": {
 		"psr-4": {
-			"csa12\\db\\": ""
+			"csa\\": ""
 		}
     }
 }
